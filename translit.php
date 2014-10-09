@@ -358,7 +358,7 @@ class Default_Text_Translit //extends Zend_Text
 
     /**
      * Converts cyrylic to latin representation
-     * @param string $str Text to be converted
+     * @param string $str Text to be converted 
      * @param int $country Country id for convertion
      * @return string
      */
