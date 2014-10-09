@@ -1,7 +1,7 @@
 ﻿<?php
 
 class Default_Text_Translit //extends Zend_Text
-{
+{ 
     /**
      * Russian transliteration by standard Passport 2010-
      */
